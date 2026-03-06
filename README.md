@@ -1,5 +1,9 @@
 # Premium Authority Landing Page — High Conversion
 
+<p align="center">
+<img src="./src/assets/screenshots/image01.png" alt="Capa do Projeto" width="100%"/>
+</p>
+
 Este projeto é um modelo de Landing Page de alto padrão, desenvolvido com tecnologias de ponta para profissionais que buscam elevar sua autoridade digital. O foco aqui não é apenas um "site bonito", mas uma ferramenta de conversão otimizada para médicos, advogados, arquitetos e consultores.
 
 ## 💎 Por que este modelo vende?
@@ -25,9 +29,28 @@ O site é dividido em seções estratégicas para o funil de vendas:
 
 - **Hero Section:** Impacto visual imediato e proposta de valor clara.
 - **About:** Construção de autoridade e conexão emocional com o cliente.
+
+<p align="center">
+<img src="./src/assets/screenshots/image02.png" alt="Sobre" width="100%"/>
+</p>
+
 - **Treatments / Services:** Exposição clara e elegante das especialidades.
+
+<p align="center">
+<img src="./src/assets/screenshots/image03.png" alt="Serviços" width="100%"/>
+</p>
+
 - **Clinic / Office:** Demonstração de infraestrutura e profissionalismo.
+
+<p align="center">
+<img src="./src/assets/screenshots/image04.png" alt="Clínica" width="100%"/>
+</p>
+
 - **Contact:** Foco total em conversão (CTA) via canais diretos.
+
+<p align="center">
+<img src="./src/assets/screenshots/image05.png" alt="CTA" width="100%"/>
+</p>
 
 ## 📦 Instalação e Uso
 
