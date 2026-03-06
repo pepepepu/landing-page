@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# landing-page
-=======
 # Premium Authority Landing Page — High Conversion
 
 Este projeto é um modelo de Landing Page de alto padrão, desenvolvido com tecnologias de ponta para profissionais que buscam elevar sua autoridade digital. O foco aqui não é apenas um "site bonito", mas uma ferramenta de conversão otimizada para médicos, advogados, arquitetos e consultores.
@@ -62,4 +59,3 @@ Ao entregar um projeto com **GSAP + React**, você se diferencia de **90% do mer
 
 Se quiser, também posso te mandar uma **versão ainda mais forte para GitHub (com badges, preview, screenshots e CTA de portfólio)** que aumenta muito a percepção de qualidade do projeto.
 ```
->>>>>>> b9e8daf (feat: setup inicial da landing page premium)
