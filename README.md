@@ -34,7 +34,7 @@ O site é dividido em seções estratégicas para o funil de vendas:
 ### 1. Clone o repositório
 
 ```bash
-git clone [url-do-repositorio]
+git clone https://github.com/pepepepu/landing-page.git
 ```
 
 ### 2. Instale as dependências
