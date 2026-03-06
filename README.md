@@ -54,8 +54,3 @@ npm run dev
 Este é um produto pronto para ser comercializado. Landing Pages para profissionais liberais no Brasil têm um ticket médio entre **R$ 2.500,00 e R$ 7.000,00**, dependendo do nível de personalização e estratégia de SEO aplicada.
 
 Ao entregar um projeto com **GSAP + React**, você se diferencia de **90% do mercado** que utiliza construtores genéricos como WordPress ou Wix, oferecendo um site que carrega mais rápido, é mais seguro e possui um design exclusivo.
-
-```
-
-Se quiser, também posso te mandar uma **versão ainda mais forte para GitHub (com badges, preview, screenshots e CTA de portfólio)** que aumenta muito a percepção de qualidade do projeto.
-```
