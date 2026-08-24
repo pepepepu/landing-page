@@ -1,4 +1,4 @@
-# Premium Authority Landing Page — High Conversion
+# Modelo de Landing Page
 
 <p align="center">
 <img src="./src/assets/screenshots/image01.png" alt="Capa do Projeto" width="100%"/>
